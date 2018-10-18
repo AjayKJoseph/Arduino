@@ -1,3 +1,5 @@
+/* This is a working code for MaxSonar MB1242 High noise tolerance ultrasonic sensor using Wire.h library using default address */
+
 #include <Wire.h>
 //long x; 
 void setup() 
