@@ -11,11 +11,11 @@ void setup()
 
 void loop() 
 {
-  setupMAX1202();
+  setupMAX1242();
   
 }
 
- long setupMAX1202()
+ long setupMAX1242()
  {
   // Initate a write at the sensor address 
     Wire.beginTransmission(0b1110000); // A 7-bit address of DEC 112
