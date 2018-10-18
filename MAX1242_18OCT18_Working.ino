@@ -6,7 +6,7 @@ void setup()
 {
   Serial.begin(115200);
   Wire.begin();
-  setupMAX1202();
+  setupMAX1242();
 }
 
 void loop() 
